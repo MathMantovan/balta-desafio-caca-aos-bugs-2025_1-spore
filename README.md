@@ -24,9 +24,10 @@ Neste processo eu aprendi:
 - [ ] Executar a aplicação
 - [ ] Testar a aplicação
 
+## Minha estrategia
+Configurei o AppDbContext gerando a migração e as devidas indicações do desafio.
+
 ## Sobre o Caça aos Bugs
 O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias para aplicações em cenários reais. Durante os 9 desafios desta jornada, os participantes são submetidos ao aprendizado e prática de Depuração de Aplicações, Testes de Unidade, Testes E2E, Melhorias de UI, Melhorias de Performance, Deployment e Infraestrutura,
 Banco de Dados.
 
-### Veja meu progresso no desafio
-[Incluir link para o repositório central]
